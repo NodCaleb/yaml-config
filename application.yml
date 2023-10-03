@@ -1,0 +1,18 @@
+Items:
+    Branch: "Tacky Tacos"
+    FoodItems:
+        - "Fish Taco"
+        - "Meat Taco"
+        - "Tofu Taco"
+        - "Chips and Dip"
+        - "French fries"
+        - "Taco salad"
+        - "Pico de Gallo"
+    DrinkItems:
+        -  "Cola"
+        - "Water"
+        - "Tea"
+        - "Coffee"
+        - "Ginger Beer"
+        - "Orange Soda"
+        - "Lemonade"
