@@ -1,0 +1,3 @@
+Develop:
+    ConnectionStrings:
+        DefaultConnection: "localost"
